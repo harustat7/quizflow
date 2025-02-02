@@ -1,7 +1,7 @@
-##QuizFlow
+## QuizFlow
 QuizFlow is an interactive quiz application that allows users to create, take, and manage quizzes in an engaging way.
 
-##Features
+## Features
 
 Create custom quizzes with multiple question types
 Real-time scoring and feedback
